@@ -1,5 +1,6 @@
 from Vctor import vctor as vc
-from windo import windo as win
+from kokeletr import kekolet as kek
 vr = vc(10,10)
 print(vr.x+vr.y)
-windo = win(1000,800,"i like macroni")
+windo = kek(1000,800,)
+windo.start_min_lop()
